@@ -1,5 +1,6 @@
 ## Olá, me chamo Daniel 👋
-- Sou Desenvolvedor Back-end
+- Desenvolvedor Back-end
+Sou formado em Análise e Desenvolvimento de Sistemas e atuo no desenvolvimento de soluções para automação de processos administrativos, com foco em otimização de rotinas e ganho de eficiência operacional.
 
 ## 🚀 Ferramentas e Tecnologias
 
