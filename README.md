@@ -31,12 +31,6 @@ Sou formado em Análise e Desenvolvimento de Sistemas e atuo no desenvolvimento 
 ## Contatos
 <a href="https://www.linkedin.com/in/daniel-vitorc" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
           
-<div>
-<a href="https://github.com/danielvitorc">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielvitorc&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=danielvitorc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>          
-          
           
 <!--
 **danielvitorc/danielvitorc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
